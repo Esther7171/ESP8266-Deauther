@@ -39,7 +39,9 @@ The original NodeMCU (as seen in the picture above) uses a CP2102 USB serial chi
 
 Do not buy an ESP32 version if you're planning to build a Deauther. You'll need an ESP8266! ESP32 is good but it also have its own issues. to be simple leave it here.
 
+<p align="center">
 <img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/20099b84-cbc1-445b-b4d5-0bce720a5a41" width="400" />
+</p>
 
 # Buy
 👉 [Amazone](https://www.amazon.in/gp/product/B010O1G1ES/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
@@ -53,7 +55,10 @@ Do not buy an ESP32 version if you're planning to build a Deauther. You'll need 
 * Open Flash software download from above.
 * Click Connect and select the serial port of your ESP8266. it is default on com5 or com3 so dont change if it not set it.
 * Go to config tap on setting icon Select your Deauther .bin file
+
+<p align="center">
 <img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/d2c45c98-a8a3-4943-b17a-da2601b63332" width="600" />
+</p>
 
 * Go to operation.
 * Tap on flash.
@@ -62,11 +67,38 @@ Do not buy an ESP32 version if you're planning to build a Deauther. You'll need 
 ## TIP
 The WiFi password for ```pwned``` is ```deauther``` in case you were looking for it 😉
 ## Usage
-* Connect it to any powersource via USB.
-* Connet to Network.
-* type on your browser deauther.me / 192.168.4.1
-* Click on i understand.
-* Done !
+### Connect it to any powersource via USB.
+
+<p align="center">
+<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/20221cd2-76bf-434b-9c38-91b16dbfebd0" width="280" />
+</p>
+
+
+### Connet to ESP8266 name of Network.
+### Open your browser type this
+* 192.168.4.1 [link](192.168.4.1)
+* deauth.me
+  
+<p align="center">
+<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/185b65b9-ebe1-4352-ac5e-3d1374b60552" width="280" />
+</p>
+
+### Click on i understand.
+<p align="center">
+<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/33cd1256-a1a9-4638-b908-0952eaed87fb" width="280" />
+</p>
+
+### It auto scan for devices
+* Select Networks to Attack
+<p align="center">
+<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/0cb7426c-1336-44d2-9bf6-ff6e9f62867d" width="280" />
+</p>
+
+### Top left You find attack tap on that and launch attack as you like
+<p align="center">
+<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/393cb304-0098-41f8-821b-7ec9f9449e8f" width="280" />
+</p>
+
 ## Reset
 To reset you nodemcu use ai thinker reset file given on the top And flash again your deauther code.
 ### Thank you 🙂
