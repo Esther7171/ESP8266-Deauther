@@ -27,6 +27,9 @@ The NodeMCU board is probably the most popular ESP8266 development board. It's c
 The original NodeMCU (as seen in the picture above) uses a CP2102 USB serial chip. The NodeMCU V3 is slightly bigger and uses the CH340 chip. However, both versions work the same.
 
 Do not buy an ESP32 version if you're planning to build a Deauther. You'll need an ESP8266!
+
+<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/20099b84-cbc1-445b-b4d5-0bce720a5a41" width="400" />
+
 ## Buy
 👉 [ESP8266](https://www.amazon.in/gp/product/B010O1G1ES/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
 
@@ -39,7 +42,7 @@ Do not buy an ESP32 version if you're planning to build a Deauther. You'll need 
 * Open Flash software download from above.
 * Click Connect and select the serial port of your ESP8266. it is default on com5 or com3 so dont change if it not set it.
 * Go to config tap on setting icon Select your Deauther .bin file
-<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/d2c45c98-a8a3-4943-b17a-da2601b63332" width="400" />
+<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/d2c45c98-a8a3-4943-b17a-da2601b63332" width="600" />
 
 * Go to operation.
 * Tap on flash.
