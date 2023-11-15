@@ -6,7 +6,7 @@
 ## Why i Prefer This 
 let take an exmaple :
 you visted a cafe you take out your laptop and connect your wireless adapter to it and start disconnecting people to the network it take time and 
-the first dought of people is obivousally came on to you becouse you have a laptop and a wired antina on it although it illegal to jam networks. 
+the first doubt of people is obivousally came on to you becouse you have a laptop and a wired antina on it although it illegal to jam networks. 
 but at This point we can use an Nodemcu to kick of people form their network . however the condition is it only supports 2.4 Ghz network but it still good 
 becouse you able to find vunerable divice and network at public places. It good for trolling in my perspective.
 ## Functions
