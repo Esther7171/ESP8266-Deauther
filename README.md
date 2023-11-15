@@ -50,6 +50,12 @@ Do not buy an ESP32 version if you're planning to build a Deauther. You'll need 
 * when it finish unpluge and repluge it. 
 ## TIP
 The WiFi password for ```pwned``` is ```deauther``` in case you were looking for it 😉
+## Usage
+* Connect it to any powersource via USB.
+* Connet to Network.
+* type on your browser deauther.me / 192.168.4.1
+* Click on i understand.
+* Done !
 ## Support 
 To reset you nodemcu use ai thinker reset file given on the top And flash again your deauther code.
 ### Thank you 🙂
