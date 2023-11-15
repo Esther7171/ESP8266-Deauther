@@ -1,24 +1,27 @@
 # ESP8266-Deauther
+<p align="center">
+
 <img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/d9409805-d8f1-4251-92ee-9837db8e3b72" width="250" height="350" />
+</p>
 
-#### Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
+#### ***Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!***
 
-## Why i Prefer This 
-let take an exmaple :
 
-you visted a Cafés then you take out your laptop and  your wireless adapter to it and start disconnecting people to the network it take time and 
-the first doubt of people is obivousally came on to you becouse you have a laptop and a wired antina on it although it illegal to jam networks. 
-but at This point we can use an Nodemcu to kick of people form their network . however the condition is it only supports 2.4 Ghz network but it still good 
-becouse you able to find vunerable divice and network at public places. It good for trolling in my perspective.
+# Why i Prefer This 
+<p align="center">
+<img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/e8d70955-7af3-4337-b125-fd3dc6c6d020" width="400" height="200" />
+</p>
+
+* As a Hacker it important to increase your skill and Increase the number of tools becouse at sudden time it might be advantageous.
+*  This is litreally cheap and small in size and belive me it's a serial killer.
+*  Let me give u one such a example: suppose u are in public Cafés and you decided to preform a Deauthentication attack you open up your laptop pluge in your wireless adapter and start deauthenticating people One by One. Now the people will start a suspect and the common suspicion will fall on you because you have a laptop and thier is a weird device connected to your laptop which have some sort of an antina , well you can preform the same using a Nodemcu but this time you will controlling your nodemcu either with your phone or powerbank and that Nodemcu will be hidden inside you pocket taking power from your phone/laptop/powerbank anywhere it just need power to turn on although it illegal to jam networks. but at This point we can use an Nodemcu to kick of people form their network . however the condition is it only supports 2.4 Ghz network but it still good becouse you able to find vunerable device and network at public places. It good for trolling in my perspective.
 ## Functions
 * Scan for WiFi networks and clients
 * Create docents of WiFi networks (beacon flooding)
 * Confuse WiFi trackers by sending fake probe requests (probe flooding)
 * Disconnect selected devices by sending deauth packets (deauthentication attack)
 ## About this Project
-This allows you to easily perform a variety of actions to test networks using an ESP8266. 
-It's also a great project for learning about WiFi, microcontrollers, Arduino, hacking and electronics/programming in general.
-its easy to use and Sometime you can use it for trolling people at public places by disconnecting them to the network they connected
+This is an IOT device allows you to easily perform a variety of actions to test networks using an ESP8266. It's also a great project for learning about *WiFi*, *microcontrollers*, *Arduino*, *hacking* and *electronics/programming* in general.
 ## DISCLAIMER
 This project is a proof of concept for testing and educational purposes.
 Neither the ESP8266, nor its SDK was meant or built for such purposes. Bugs can occur!
@@ -34,14 +37,14 @@ The NodeMCU board is probably the most popular ESP8266 development board. It's c
 
 The original NodeMCU (as seen in the picture above) uses a CP2102 USB serial chip. The NodeMCU V3 is slightly bigger and uses the CH340 chip. However, both versions work the same.
 
-Do not buy an ESP32 version if you're planning to build a Deauther. You'll need an ESP8266!
+Do not buy an ESP32 version if you're planning to build a Deauther. You'll need an ESP8266! ESP32 is good but it also have its own issues. to be simple leave it here.
 
 <img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/20099b84-cbc1-445b-b4d5-0bce720a5a41" width="400" />
 
 ## Buy
-👉 [ESP8266](https://www.amazon.in/gp/product/B010O1G1ES/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
+👉 [Amazone](https://www.amazon.in/gp/product/B010O1G1ES/ref=ppx_yo_dt_b_asin_image_o01_s00?ie=UTF8&psc=1)
 
-👉 [ESP8266](https://www.aliexpress.com/item/1005001636634198.html?aff_fcid=8ca56e73f1ac424eaa4914f7d598c19a-1700053408353-00489-_9gMH6T&tt=CPS_NORMAL&aff_fsk=_9gMH6T&aff_platform=portals-search&sk=_9gMH6T&aff_trace_key=8ca56e73f1ac424eaa4914f7d598c19a-1700053408353-00489-_9gMH6T&terminal_id=478e34abe83644b4b80bc88a122abcdd&afSmartRedirect=y)
+👉 [Aliexpress](https://www.aliexpress.com/item/1005001636634198.html?aff_fcid=8ca56e73f1ac424eaa4914f7d598c19a-1700053408353-00489-_9gMH6T&tt=CPS_NORMAL&aff_fsk=_9gMH6T&aff_platform=portals-search&sk=_9gMH6T&aff_trace_key=8ca56e73f1ac424eaa4914f7d598c19a-1700053408353-00489-_9gMH6T&terminal_id=478e34abe83644b4b80bc88a122abcdd&afSmartRedirect=y)
 
 ## Installation Guide
 * Download .bin file of ESP8266.
@@ -64,6 +67,6 @@ The WiFi password for ```pwned``` is ```deauther``` in case you were looking for
 * type on your browser deauther.me / 192.168.4.1
 * Click on i understand.
 * Done !
-## Support 
+## Reset
 To reset you nodemcu use ai thinker reset file given on the top And flash again your deauther code.
 ### Thank you 🙂
