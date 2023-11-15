@@ -2,6 +2,13 @@
 <img src="https://github.com/Esther7171/ESP8266-Deauther/assets/122229257/d9409805-d8f1-4251-92ee-9837db8e3b72" width="250" height="350" />
 
 #### Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!
+
+## Why i Prefer This 
+let take an exmaple :
+you visted a cafe you take out your laptop and connect your wireless adapter to it and start disconnecting people to the network it take time and 
+the first dought of people is obivousally came on to you becouse you have a laptop and a wired antina on it although it illegal to jam networks. 
+but at This point we can use an Nodemcu to kick of people form their network . however the condition is it only supports 2.4 Ghz network but it still good 
+becouse you able to find vunerable divice and network at public places. It good for trolling in my perspective.
 ## Functions
 * Scan for WiFi networks and clients
 * Create docents of WiFi networks (beacon flooding)
